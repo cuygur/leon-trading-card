@@ -1,4 +1,4 @@
-#Animal Trading Card Project
+# Animal Trading Card Project
 
 This is my CSS project for Udacity
-Passed at 26/09/2019
+- It shows animal informations in formatted card
